@@ -83,7 +83,7 @@ public class AirportTest {
                 break;
             }
         }
-        Assert.assertTrue(hasBomberPlane)
+        Assert.assertTrue(hasBomberPlane);
     }
 
     @Test
