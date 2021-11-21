@@ -1,4 +1,4 @@
-import Planes.experimentalPlane;
+import Planes.ExperimentalPlane;
 import models.MilitaryType;
 import Planes.MilitaryPlane;
 import Planes.PassengerPlane;
